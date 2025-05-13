@@ -1,6 +1,7 @@
 # BrewCrew-Caf-
 This is a freelance project for BrewCrew Café
-Objective:
+
+# Objective:
 Analyze the difference in product sales across different seasons to determine which product categories perform best at different times of the year.
 Tools Used:
 
